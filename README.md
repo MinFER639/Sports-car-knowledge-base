@@ -2,7 +2,7 @@
 Knowledge representation including Natural Language Processing (NLP), First-Order Logic and Regular Expression
 
 !!! CAUTION !!!
-Running application requires installation "speech2text" form MathWorks File Exchange. LINK: https://www.mathworks.com/matlabcentral/fileexchange/65266-speech2text?s_tid=srchtitle
+Running application requires installation "speech2text" form MathWorks File Exchange and creating own Google API key for Google Cloud Platform. LINK: https://www.mathworks.com/matlabcentral/fileexchange/65266-speech2text?s_tid=srchtitle
 
 Application designed like Siri or Google Assistant. It allows user to verbally adding information to the knowledge base, and then and then obtaining information already stored in it. Includes Graphical User Interface developed in Matlab App Designer.
 
